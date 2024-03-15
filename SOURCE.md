@@ -19,8 +19,7 @@ SMALLER SUB HEAD
 `Travel`
 
 PARAGRAPH 1
-
-`Once a mudbrick waystation along desert trading routes, Riyadh is now one of the wealthiest cities in the world. The country’s political, financial and administrative capital is also a city with a fascinating subtext.`
+`Once a mudbrick waystation along desert trading routes, Riyadh is now one of the wealthiest cities in the world. The country’s political, financial and administrative capital is also a city with a fascinating subtext.
 
 SMALLER SUB HEAD
 
@@ -56,7 +55,7 @@ SMALLER SUB HEAD
 
 LINK 1
 
-`Lonely Planet`
+Lonely Planet
 `http://www.lonelyplanet.com/saudi-arabia/riyadh`
 
 LINK 2
